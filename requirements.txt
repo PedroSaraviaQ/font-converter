@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+fonttools==4.39.3
